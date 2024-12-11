@@ -1,0 +1,590 @@
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
+Initializing n8n process
+There was an error initializing DB
+Error: There was an error initializing DB
+    at Start.exitWithCrash (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:116:49)
+    at /usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:59
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/base-command.js:82:9)
+    at Start.init (/usr/local/lib/node_modules/n8n/dist/commands/start.js:160:9)
+    at Start._run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/command.js:301:13)
+    at Config.runCommand (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/config/config.js:424:25)
+    at run (/usr/local/lib/node_modules/n8n/node_modules/@oclif/core/lib/main.js:94:16)
+    at /usr/local/lib/node_modules/n8n/bin/n8n:71:2
+
+password authentication failed for user "guest1"
+error: password authentication failed for user "guest1"
+    at Parser.parseErrorMessage (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/parser.js:35:38)
+    at Socket.<anonymous> (/usr/local/lib/node_modules/n8n/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+User settings loaded from: /home/node/.n8n/config
+Last session crashed
